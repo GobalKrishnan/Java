@@ -1,3 +1,3 @@
 # Java
-date-time.jar
+date-time.jar "\n"
 string color.jar
