@@ -1,3 +1,3 @@
 # Java
-\033[1;32m date-time.jar
-\033[1;32m string color.jar
+date-time.jar
+string color.jar
